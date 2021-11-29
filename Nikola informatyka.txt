@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description"content="Informacje o mnie">
+    <meta name="keywords"content="Nikola Łaszczewska,Przywidz,Informacje o mnie">
+    <title>Informacje o mnie</title>
+    </head>
+    <body>
+ < ing src=" https://poczta.wp.pl/api/v1/imgconv/8105988cd6c94db563295f6c/1.2/XxY/
+
+ <p>
+ imię: Nikola
+ nazwisko: Łaszczewska
+ miejsce zamieszkania: Przywidz
+ </p>
+ <p>
+ Mam na imię Nikola mam 14 lat i mieszkam w Przywidzu. Cenie w sobie szczerość i poczucie humoru.
+ </p>
+ <p>
+
+ <ol>
+ <Ll>Fryzjerstwo,robienie zdjęć/Ll>
+ <Ll>Rysowanie</Li>
+ <Li>Taniec</Li>
+ </p>
+<p>
+  Mam nadzieję że przekonałam cię co do mojej osoby
+  </p>
+  </body>
+  </html>
